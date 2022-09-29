@@ -1,3 +1,7 @@
+/*//////////////////////////////
+//insertar datos de localStorage//
+//////////////////////////////*/
+
 localStorage.setItem('nombre', 'Miguel'); //alamcena localmente y permanentemente
 
 sessionStorage.setItem('nombre', 'Romina');//almacena localmente y mientras se esta navegando
